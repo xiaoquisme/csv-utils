@@ -1,0 +1,16 @@
+= csv utils
+
+a node js csv utils for daily use.
+
+common function:
+
+. read data from database
+. read data from csv
+. write date to csv
+
+== environment requirement
+
+node js version >= 16
+
+see more details pls read Dockerfile
+
